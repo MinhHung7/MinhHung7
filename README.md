@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at University of Science (HCMUS)<br>👯 I’m looking to collaborate on learning code together<br>🤝 I’m looking for help with my poor<br>🌱 I’m currently learning Java and advanced C++<br>💬 Ask me about something you like huh<br>⚡ Fun fact: I do like code, I can code 30 hour per day, thank God for giving me coding
+🔭 I’m currently working at University of Science (HCMUS)<br>👯 I’m looking to collaborate on learning code together<br>🤝 I’m looking for help with my poor knowledge<br>🌱 I’m currently learning Java and advanced C++<br>💬 Ask me about something you like huh<br>⚡ Fun fact: I do like code, I can code 30 hour per day, thank God for giving me coding
 
 
 ## 🌐 Socials:
